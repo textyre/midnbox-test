@@ -1,0 +1,24 @@
+@import "normalize.css/normalize.css";
+
+body {
+  font-family: -apple-system, sans-serif;
+}
+
+.button {
+  font-size: 14px;
+  color: #fff;
+  padding: 0 32px;
+  height: 40px;
+  line-height: 40px;
+  background-color: #5cc425;
+  border-radius: 10px;
+  cursor: pointer;
+  white-space: nowrap;
+  font-weight: 600;
+  outline: none;
+  border: none;
+}
+
+.button:hover {
+  background-color: #42af14;
+}
